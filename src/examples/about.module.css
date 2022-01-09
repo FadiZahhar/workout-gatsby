@@ -1,13 +1,11 @@
-.page{
-    color:red;
-
+.page {
+  color: red;
 }
 
 .page h1 {
-    color:yellowgreen;
+  color: yellowgreen;
 }
 
 .text {
-    text-transform: uppercase;
-
+  text-transform: uppercase;
 }
